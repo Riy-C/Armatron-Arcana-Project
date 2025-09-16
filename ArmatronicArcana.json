@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "The Howl",
+    "Visual": "A stylistic depiction of Cyna the Hellhound standing on a mountain of bodies, head back, mouth wide, roaring at a burning sky. Her magma-glow is radiant. Her arms are coated in blood. The air cracks with heat and fury.",
+    "UprightMeaning": "Self-propelled victory. A path forged in fire. Whatever you asked, this card answers: yes\u2014because you\u2019ll fight until there\u2019s nothing left standing. You will win, but you will be the one who wins it. No help. No mercy. No brakes.",
+    "InvertedMeaning": "Indulgence in violence. Wrath untethered from purpose. You may succeed in form, but lose yourself in function. The answer is no\u2014not because you won\u2019t get it, but because you\u2019ll regret how you did.",
+    "CorpAssociation": "RedDevil Arms",
+    "CardType": "Major Arcana - Weapon Soul",
+    "SymbolicKeywords": [
+      "Fury",
+      "Victory",
+      "Destruction",
+      "Momentum",
+      "Identity Crisis"
+    ],
+    "FlavorText": "\u201cYou only hear it at night, and only when you\u2019re about to do something you\u2019ll never undo.\u201d"
+  },
+  {
+    "Name": "The Blizzard",
+    "Visual": "Swirling shades of white, pale blue, and spectral grey. The center of the card is an expanse of pure cold, nearly blank, with only a tiny, distant silhouette: an Esper figure, mid-scream, being swallowed by the storm. There is no ground. Only cold light and sorrow.",
+    "UprightMeaning": "You are about to be challenged. Severely. You will not enjoy this trial. It may break something you thought was unbreakable. This card is not your answer\u2014it is your warning. The outcome depends entirely on your will to persist.",
+    "InvertedMeaning": "The blizzard has already come and gone. Maybe you didn't even notice it. But you're still here. Still alive. Your heart still beats. Pulling this card reversed is an eerie mercy\u2014confirmation that you survived something meant to end you.",
+    "CorpAssociation": "None (Esper-class / Streetmage collective)",
+    "CardType": "Major Arcana - Threshold",
+    "SymbolicKeywords": [
+      "Adversity",
+      "Loss",
+      "Endurance",
+      "Survival",
+      "Isolation"
+    ],
+    "FlavorText": "\u201cIt wasn\u2019t a storm. It was you, frozen around your own heart. And somehow, it kept beating.\u201d"
+  },
+  {
+    "Name": "The Engineer",
+    "Visual": "The card is laced with glowing purple circuit-lines, shifting like veins of spirit electricity. At the center is a paratechnician rendered in stylized silhouette: one hand pushing up glasses, the other cocking a DC1 Cthonica. Their stance is calm, composed\u2014a living diagram.",
+    "UprightMeaning": "You\u2019re on the right path. Your balance of logic and intuition has created results that even the world\u2019s hidden systems acknowledge. This card signifies quiet mastery\u2014small actions that cause cosmic ripples. Keep building.",
+    "InvertedMeaning": "You are not broken\u2014but you are out of alignment. Stop clinging to pure logic, or floating in pure belief. It's time to recalibrate. This card is not a rejection\u2014it\u2019s a reminder. You must realign will, system, and self.",
+    "CorpAssociation": "Ainsoph Paratechnics",
+    "CardType": "Major Arcana - Paratech Alignment",
+    "SymbolicKeywords": [
+      "Craft",
+      "Balance",
+      "Intellect",
+      "Ritual",
+      "Intuition"
+    ],
+    "FlavorText": "\u201cThe spirits didn\u2019t obey him. They respected his equations.\u201d"
+  },
+  {
+    "Name": "The Dreamer",
+    "Visual": "Soft gradients of pink and sky blue swirl around the central figure\u2014a gentle Esper silhouette with a warm smile and subtle tears. In their hands, they cradle a glowing orb of blue light, like a newborn star. The aura is radiant, hopeful, and quiet.",
+    "UprightMeaning": "Yes. Your dreams are valid\u2014and they're close. Whatever you asked, the answer is warm, gentle, and full of potential. Good things are coming. The world hasn\u2019t forgotten you. The Dreamer says: believe.",
+    "InvertedMeaning": "Maybe things aren\u2019t great right now. Maybe what you hoped for is still distant. But that doesn\u2019t mean it\u2019s not coming. This card reminds you that dreaming is sacred, and every step you take moves you closer. Don\u2019t stop.",
+    "CorpAssociation": "Streetmage Collective / Megriland",
+    "CardType": "Major Arcana - Hope Arcana",
+    "SymbolicKeywords": [
+      "Hope",
+      "Softness",
+      "Potential",
+      "Belief",
+      "Resonance"
+    ],
+    "FlavorText": "\u201cSome dreams are prophecies. Some are just seeds. But all of them deserve water.\u201d"
+  },
+  {
+    "Name": "The Door",
+    "Visual": "A simple, distant door floats in a vast, black void. No walls. No floor. Just infinite emptiness and that one solemn rectangle of possibility. It glows faintly, like it remembers being real. There is no handle. It is only meant to be walked toward\u2014or walked past.",
+    "UprightMeaning": "Closure. A chapter is finished. You must let go, no matter how dearly you held on. This card brings peace or pain depending on your readiness, but it is certain in its message: it\u2019s over. Move on. Heal.",
+    "InvertedMeaning": "Another door opens. This reversal shifts focus from the past to the potential ahead. It's not a denial of pain\u2014it's a hand reaching through it. Nod behind you. Step forward.",
+    "CorpAssociation": "Ainsoph Paratechnics",
+    "CardType": "Major Arcana - Liminal Arcana",
+    "SymbolicKeywords": [
+      "Closure",
+      "Transition",
+      "Memory",
+      "Acceptance",
+      "Forward Motion"
+    ],
+    "FlavorText": "\u201cThe door doesn\u2019t care if you open it. It\u2019s already behind you.\u201d"
+  },
+  {
+    "Name": "The Parasite",
+    "Visual": "A grotesque, nightmare image: an eldritch creature formed of tendrils, teeth, and twisted hunger. Its eyes are absent. Its mouth stretches across the card\u2019s border. It leans forward\u2014not to attack, but to whisper. The color palette is sickly greens and rotting violets.",
+    "UprightMeaning": "There is a force in your life feeding off of you\u2014slowly, subtly. You\u2019re not being attacked. You\u2019re being drained. This card urges an exorcism: a person, a habit, a secret wound. Whatever it is, it\u2019s stunting your growth. Cut it out. Clean the wound. Watch yourself heal.",
+    "InvertedMeaning": "You are the one taking. Maybe without knowing. Maybe with quiet justification. This card calls for accountability\u2014not punishment. Who do you drain? Who loses when you win? Examine the roots of your connections. Restore balance, or risk rot.",
+    "CorpAssociation": "None (Aberrant Arcana)",
+    "CardType": "Major Arcana - Parasite Arcana",
+    "SymbolicKeywords": [
+      "Drain",
+      "Codependence",
+      "Accountability",
+      "Decay",
+      "Hunger"
+    ],
+    "FlavorText": "\u201cIt never wanted your soul. Just the taste of it, every time you sighed.\u201d"
+  },
+  {
+    "Name": "The Veil",
+    "Visual": "A shadowy, featureless silhouette of a human floats weightlessly in the center of the card. They face no direction. The surrounding space swirls with rich, deep purples and glimmers of starlight\u2014like nebulae made of secrets. There are no edges to the card, only gradients.",
+    "UprightMeaning": "Something is hidden. The truth is there, but blurred\u2014by deception, by forgetfulness, or by your own refusal to look. This card is not a warning\u2014it\u2019s an invitation. Peel the mirror. Read the silence. You already know where to look.",
+    "InvertedMeaning": "The veil has lifted. A truth has been revealed, or is on its way to fully landing in your awareness. You may not see it yet, but the uncovering has already begun. Watch for the moment of realization\u2014it\u2019s coming.",
+    "CorpAssociation": "Ainsoph Paratechnics",
+    "CardType": "Major Arcana - Mystery Arcana",
+    "SymbolicKeywords": [
+      "Mystery",
+      "Obfuscation",
+      "Insight",
+      "Perception",
+      "Revelation"
+    ],
+    "FlavorText": "\u201cYou weren\u2019t blind. You were simply facing the wrong way.\u201d"
+  },
+  {
+    "Name": "The Jackal",
+    "Visual": "A sleek, stylized depiction of Jet Jackal mid-leap between rooftops, trenchcoat flaring behind him, silhouette backlit by the city\u2019s artificial moonlight. A faint smile is visible. There\u2019s wind, speed, motion\u2014he\u2019s clearly laughing at gravity itself.",
+    "UprightMeaning": "Relax. You\u2019re taking this too seriously. This card\u2019s appearance is a wink from the universe\u2014a reminder not to let the pressure crush your spark. Jet slips through traps, hauntings, even metaphysical horrors, by not overthinking it. Neither should you.",
+    "InvertedMeaning": "You might\u2019ve laughed when you shouldn\u2019t have. The Jackal, reversed, loses his footing. Maybe not catastrophically\u2014but enough to sting. Pay attention. There\u2019s more weight here than you wanted to admit. It\u2019s not all a joke this time.",
+    "CorpAssociation": "None (Wildcard / Trickster Arcana)",
+    "CardType": "Major Arcana - Trickster Arcana",
+    "SymbolicKeywords": [
+      "Humor",
+      "Escape",
+      "Perspective",
+      "Slippage",
+      "Overconfidence"
+    ],
+    "FlavorText": "\u201cHe laughs. He leaps. He lives. Until the one time he doesn\u2019t.\u201d"
+  },
+  {
+    "Name": "The Juggernaut",
+    "Visual": "A solitary figure rides a motorcycle along a sunblazed desert road.\u2014 They are unarmored. Unadorned. Just a coat. Just conviction. Behind them: collapsing ruins and a trail of dust plumes. Ahead: radiant nothing. They move forward without expression.",
+    "UprightMeaning": "You are the momentum. You don\u2019t need to believe in the goal\u2014you only need to keep moving. This card is not about hope. It is about motion. When everything else has failed, the Juggernaut remains. If you drew this card... then you are not done yet.",
+    "InvertedMeaning": "You\u2019ve halted\u2014not from weakness, but fear of what comes next. This card calls you out of paralysis. The future won\u2019t wait for you to feel ready. It never has. Begin again. Movement is resurrection.",
+    "CorpAssociation": "None (Wayfarer Arcana / Implied Ties to Juggernaut Drive)",
+    "CardType": "Major Arcana \u2013 Momentum Arcana",
+    "SymbolicKeywords": [
+      "Conviction",
+      "Motion",
+      "Endurance",
+      "Pressure",
+      "Becoming"
+    ],
+    "FlavorText": "\u201cThere is no prophecy. There is no promise. There is only the next step\u2014and you take it anyway.\u201d"
+  }
+]
